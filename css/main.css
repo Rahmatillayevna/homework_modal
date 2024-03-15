@@ -1,0 +1,128 @@
+/* main */
+.main{
+    margin-top: 200px;
+    padding-left: 58px;
+}
+.modal-content{
+    background:linear-gradient(0deg,rgb(235, 160, 165),rgb(210, 129, 206) 100%);
+}
+.modal-backdrop{
+    background:linear-gradient(0deg,rgb(235, 160, 165),rgb(210, 129, 206) 100%);
+}
+.modal-body ul li a{
+    text-decoration: none;
+    color:white;
+}
+.modal-body ul li {
+    list-style: none;
+    
+}
+.form__input input[type="submit"]{
+    width: 100%;
+    max-width: 420px;
+    text-align: center;
+    background-color:#F4E099;
+    padding-left: 195px;
+    padding-right: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.form__input input{
+    width: 100%;
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    border-color:rgb(243 249 255 / 7%);
+    background-color: transparent;
+    
+}
+input::placeholder{
+    color: white;
+}
+h5{
+    color: white;
+}
+.modal-close{
+    top: 10px;
+    right: 10px;
+    color:#E6A191;
+    font-size: 30px;
+    cursor: pointer;
+}
+.modal-content{
+    background-color: linear-gradient(0deg,rgb(189, 102, 243),rgb(234, 162, 165)100%);
+}
+.modal-backdrop{
+    background-color: linear-gradient(0deg,rgb(189, 102, 243),rgb(234, 162, 165)100%);
+}
+.btn-check:active+.btn-primary:focus, .btn-check:checked+.btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show>.btn-primary.dropdown-toggle:focus{
+    box-shadow: none;
+}
+.btn-check:focus+.btn, .btn:focus{
+    box-shadow: none;
+}
+.btn{
+    font-size: 20px;
+    background-color:rgb(210, 129, 206) ;
+    border-radius: 5px;
+    color: white;
+    
+}
+.btn:hover{
+    background-color: rgb(210, 129, 206);
+    color: white;
+}
+
+
+/* kk */
+.kk{
+    margin-top: -44px;
+    padding-left: 240px;
+}
+.modall-body ul li a{
+    text-decoration: none;
+    color:white;
+    
+}
+.modall-body ul li {
+    list-style: none;
+    
+}
+
+
+.sign{
+    text-align: center;
+    margin-right: 56px;
+    
+}
+.password{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-left: 37px;
+    margin-right: 40px;
+}
+.body__btn{
+
+    margin-left: 30px;
+    border: none;
+    border-right: 5px;
+
+}
+.bn{
+    padding: 24px;
+    padding-left: 160px;
+    margin: 9px 3px;
+    padding-bottom: 19px;
+    margin-bottom: 32px;
+    border: none;
+    border-radius: 5px;
+}    
+.bn i{
+    margin-right: 10px;
+    margin-left: -119px;
+}
